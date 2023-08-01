@@ -53,3 +53,5 @@ git blame (file mored nazar dar on folder) -L(mitoni inja yek khat ro begi ya az
 git bisect >> bisect  mishe( binary search commit )hast  
 git bisect bad  >> ye bug pida shode mikhai bebbini dar kodam commit in bug be vojod omade ve ba inn code neshon mide in bug dar in commit hast (commit hal hazer)
 git bisect good [(adade commit)] >> yek commit ke benazre shoma on bug daresh vojod nadashte ro neshon midi besh bayad dar akhar kar bedon on adad benevisi
+
+chock thanks :)
